@@ -1,0 +1,11 @@
+/*
+This is to set the image on the pane
+*/
+.root {
+	-fx-background-image:url("file:DEYAGM.jpg"),url("file:bubbles.gif"); 
+} 
+
+
+
+
+
